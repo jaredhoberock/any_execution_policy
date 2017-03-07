@@ -1,0 +1,3 @@
+[submodule "async_reduce"]
+	path = async_reduce
+	url = git@github.com:jaredhoberock/async_reduce
